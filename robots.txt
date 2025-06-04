@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap link (still important)
+Sitemap: https://sanchalit.github.io/SriBalajiMedical/sitemap.xml
